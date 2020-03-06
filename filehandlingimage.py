@@ -1,0 +1,1 @@
+f = open(r"C:\Users\Rama Subhrahamanyam\Desktop\jrntr.jpeg","rb")f2 = open(r"C:\Users\Rama Subhrahamanyam\Desktop\jrntr1.jpeg", "wb")for data in f:    f2.write(data)
