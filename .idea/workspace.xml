@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e60625c-13bb-434b-875a-f1d5359cd7af" name="Default Changelist" comment="" />
+    <list default="true" id="0e60625c-13bb-434b-875a-f1d5359cd7af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WvK3Q1y0poxqnbtT0yeUGBmZKd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,35 +27,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="E:/Hari Python" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Rama Subhrahamanyam\PycharmProjects\TestApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.practiseday2">
-    <configuration name="filehandling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="TestApp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filehandling.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mathmodule">
     <configuration name="filehandlingimage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,6 +70,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isprimenumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mathmodule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mathmodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mathmodule" />
         <item itemvalue="Python.practiseday2" />
         <item itemvalue="Python.isprimenumber" />
         <item itemvalue="Python.filehandlingimage" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.filehandling" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +174,48 @@
       <option name="presentableId" value="Default" />
       <updated>1580024428311</updated>
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1583503393665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583503393665</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" apple sample commit">
+      <created>1583503657146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583503657146</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" apple sample commit">
+      <created>1583583335492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583583335492</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" apple sample commit">
+      <created>1583584015848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583584015848</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" apple sample commit">
+      <created>1583584154546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583584154546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value=" apple sample commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" apple sample commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="306" y="46" key="#Inspections" timestamp="1581258706631">
@@ -179,26 +226,30 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="444" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1304.768@62.0.1304.768" timestamp="1582728133954" />
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1583584152043">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/62.0.1304.768@62.0.1304.768" timestamp="1583584152043" />
     <state x="494" y="143" key="FileChooserDialogImpl" timestamp="1583495392055">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="494" y="143" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1583495392055" />
-    <state width="1283" height="178" key="GridCell.Tab.0.bottom" timestamp="1583408404327">
+    <state width="1283" height="178" key="GridCell.Tab.0.bottom" timestamp="1583583979091">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="178" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1583408404327" />
-    <state width="1283" height="178" key="GridCell.Tab.0.center" timestamp="1583408404327">
+    <state width="1283" height="178" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1583583979091" />
+    <state width="1283" height="178" key="GridCell.Tab.0.center" timestamp="1583583979091">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="178" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1583408404327" />
-    <state width="1283" height="178" key="GridCell.Tab.0.left" timestamp="1583408404327">
+    <state width="1283" height="178" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1583583979091" />
+    <state width="1283" height="178" key="GridCell.Tab.0.left" timestamp="1583583979091">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="178" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1583408404327" />
-    <state width="1283" height="178" key="GridCell.Tab.0.right" timestamp="1583408404327">
+    <state width="1283" height="178" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1583583979091" />
+    <state width="1283" height="178" key="GridCell.Tab.0.right" timestamp="1583583979091">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1283" height="178" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1583408404327" />
+    <state width="1283" height="178" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1583583979091" />
     <state width="1283" height="238" key="GridCell.Tab.1.bottom" timestamp="1582813552552">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
@@ -215,10 +266,14 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state width="1283" height="238" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1582813552552" />
-    <state x="421" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1583495250656">
+    <state x="306" y="121" key="Vcs.Push.Dialog.v2" timestamp="1583584165760">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="421" y="210" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583495250656" />
+    <state x="306" y="121" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1583584165760" />
+    <state x="421" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1583583153639">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="421" y="210" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583583153639" />
     <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583378261308">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
